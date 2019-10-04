@@ -5,7 +5,7 @@ The default repo branch contains an updated version of the project utilizing Num
 
 ## Overview
 
-The project used data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. The project examined usage patterns in three major US cities - Chicago, Washington and New York.
+The project used data provided by [Motivate](https://www.motivateco.com), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. The project examined usage patterns in three major US cities - Chicago, Washington and New York.
 
 An interactive experience was created to allow users to select data for a specific city and filter the data by a specific month or day of the week.
 
